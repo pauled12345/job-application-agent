@@ -1,0 +1,26 @@
+# Secrets - NEVER COMMIT
+.gmail-creds
+*.pem
+*.key
+*.env
+.env.local
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated PDFs and screenshots (can be regenerated)
+resumes/*.pdf
+shots/*.png
+
+# Runtime logs
+sent_log.jsonl
+search_results.json
+verify_results.json
+contacts.json
+
+# IDE/OS
+.vscode/
+.DS_Store
+Thumbs.db

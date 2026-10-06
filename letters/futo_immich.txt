@@ -1,0 +1,13 @@
+Hello,
+
+I'm Paul, a Flutter developer and final-year Computer Science student at DeKUT in Kenya. I found the Immich Mobile Developer role and wanted to ask one practical question first.
+
+The posting lists Austin, TX, but the team also advertises remote. Is remote open to candidates in East Africa? I'm not asking to walk into a senior role — your mobile apps being Flutter is exactly the work I want to be doing.
+
+For context: I've built AutoIntel, an AI vehicle diagnostics app with a Flutter client over a FastAPI and PostgreSQL backend, plus a Python scraper for tracking competitor pricing on Jumia. Both are public at github.com/pauled12345.
+
+I'd rather start with a small trial task than ask you to take a chance. If remote from Kenya isn't possible, I'd genuinely rather know.
+
+Thank you,
+Paul Njuguna Nganga
++254 796 880 258

@@ -1,0 +1,21 @@
+Subject: Junior Python/Flutter developer — final-year CS student in Kenya, available for contract/trial work
+
+Hello,
+
+I'm Paul Njuguna Nganga, a final-year Computer Science student at DeKUT in Kenya. I write Python, FastAPI, and Flutter, and I'm looking for real work — contract, trial tasks, or junior roles.
+
+What I can do right now:
+- Python scripting, web scraping, and data extraction (Jumia competitor price tracker: github.com/pauled12345/jumia-competitor-tracker)
+- FastAPI REST APIs with PostgreSQL
+- Flutter mobile apps (AutoIntel: AI vehicle diagnostics, Flutter + FastAPI + PostgreSQL)
+- Automation, CSV/Excel processing, API integrations
+
+I'm not asking for a full-time role if that's not open. I'm happy to start with a single bug fix, a scraper, a data-cleaning task, or a small feature — whatever's been sitting in the backlog. I work reliably, I learn fast, and I take feedback well.
+
+If you have even a few hours of work that needs a careful pair of hands, I'd be glad to prove it.
+
+Best,
+Paul Njuguna Nganga
++254 796 880 258
+github.com/pauled12345
+linkedin.com/in/paul-njuguna-0301bb2aa

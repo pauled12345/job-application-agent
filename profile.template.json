@@ -1,0 +1,23 @@
+{
+  "_README": "Fill this with REAL values only. Never invent. The sender scripts read this file.",
+
+  "full_name": "",
+  "email": "paulnjugunanganga58@gmail.com",
+  "phone": "",
+  "location": "",
+  "current_company": "",
+
+  "github_url": "",
+  "linkedin_url": "",
+  "portfolio_url": "",
+
+  "university": "",
+  "degree": "",
+  "graduation_expected": "",
+
+  "_notes": [
+    "canonical_form_answers": "Canonical's form asks long written questions. Draft answers live in ANSWERS.md - review and copy them in.",
+    "required_by_lever": "name, email, location, github_url",
+    "phone": "Optional on Lever but including it improves reply rates."
+  ]
+}
