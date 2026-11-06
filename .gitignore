@@ -1,9 +1,15 @@
-# Secrets - NEVER COMMIT
+# Secrets and local personal configuration - NEVER COMMIT
 .gmail-creds
+profile.json
+.env
+.env.*
+!.env.example
 *.pem
 *.key
-*.env
-.env.local
+*credentials*.json
+*service-account*.json
+*serviceAccount*.json
+*token*.json
 
 # Python cache
 __pycache__/
@@ -14,7 +20,7 @@ __pycache__/
 resumes/*.pdf
 shots/*.png
 
-# Runtime logs
+# Runtime logs and local exports
 sent_log.jsonl
 search_results.json
 verify_results.json
