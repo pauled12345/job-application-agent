@@ -1,8 +1,8 @@
 {
-  "_README": "Fill this with REAL values only. Never invent. The sender scripts read this file.",
+  "_README": "Copy this file to profile.json locally and fill in your own verified details. Never commit profile.json.",
 
   "full_name": "",
-  "email": "paulnjugunanganga58@gmail.com",
+  "email": "",
   "phone": "",
   "location": "",
   "current_company": "",
@@ -16,8 +16,7 @@
   "graduation_expected": "",
 
   "_notes": [
-    "canonical_form_answers": "Canonical's form asks long written questions. Draft answers live in ANSWERS.md - review and copy them in.",
-    "required_by_lever": "name, email, location, github_url",
-    "phone": "Optional on Lever but including it improves reply rates."
+    "Keep real personal information in the ignored local profile.json file only.",
+    "Review every application before submitting it."
   ]
 }
